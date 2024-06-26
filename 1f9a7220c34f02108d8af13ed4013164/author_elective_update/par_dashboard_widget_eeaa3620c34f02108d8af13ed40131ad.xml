@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">22aa3620c34f02108d8af13ed40131a5</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1107073_aplica_0_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props>
+        <h>20</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-24 10:28:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eeaa3620c34f02108d8af13ed40131ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Aplicativo de teste" source="x_1107073_aplica_0">1f9a7220c34f02108d8af13ed4013164</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aplicativo de teste">1f9a7220c34f02108d8af13ed4013164</sys_scope>
+        <sys_update_name>par_dashboard_widget_eeaa3620c34f02108d8af13ed40131ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-24 10:28:34</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>15</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Aplicativo de teste">1f9a7220c34f02108d8af13ed4013164</application>
+        <file_path/>
+        <instance_id>7c7e52641bee421c65324089bd4bcbec</instance_id>
+        <instance_name>dev273241</instance_name>
+        <name>par_dashboard_widget_eeaa3620c34f02108d8af13ed40131ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">22aa3620c34f02108d8af13ed40131a5</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_1107073_aplica_0_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-24 10:28:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>eeaa3620c34f02108d8af13ed40131ad</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Aplicativo de teste" source="x_1107073_aplica_0">1f9a7220c34f02108d8af13ed4013164</sys_package><sys_policy/><sys_scope display_value="Aplicativo de teste">1f9a7220c34f02108d8af13ed4013164</sys_scope><sys_update_name>par_dashboard_widget_eeaa3620c34f02108d8af13ed40131ad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-24 10:28:34</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-392059767</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>9b9a7220c34f02108d8af13ed4013168</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-24 10:28:34</sys_created_on>
+        <sys_id>2aaa3620c34f02108d8af13ed40131af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19049ca51f20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-24 10:28:34</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>2eaa36200b4f021044774859e3b286ae</update_guid>
+        <update_guid_history>2eaa36200b4f021044774859e3b286ae:-392059767</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">32aa3620c34f02108d8af13ed40131c6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-24 10:28:34</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>2489b15d879642908dfbb09c66a7d440</sys_id>
+        <sys_metadata>eeaa3620c34f02108d8af13ed40131ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Aplicativo de teste" source="x_1107073_aplica_0">1f9a7220c34f02108d8af13ed4013164</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Aplicativo de teste">1f9a7220c34f02108d8af13ed4013164</sys_scope>
+        <sys_scope_delete display_value="">0e24b803b8cb42508cab331d5f6f8040</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_eeaa3620c34f02108d8af13ed40131ad</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_eeaa3620c34f02108d8af13ed40131ad">2aaa3620c34f02108d8af13ed40131af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-24 10:28:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

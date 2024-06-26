@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Notes" section_id="daaa3620c34f02108d8af13ed4013180" sys_domain="global" table="x_1107073_aplica_0_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-24 10:28:33</sys_created_on>
+            <sys_id>16aa3620c34f02108d8af13ed4013182</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1107073_aplica_0_request" sys_domain="global" view="Default view">daaa3620c34f02108d8af13ed4013180</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-24 10:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-24 10:28:33</sys_created_on>
+            <sys_id>1aaa3620c34f02108d8af13ed4013181</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1107073_aplica_0_request" sys_domain="global" view="Default view">daaa3620c34f02108d8af13ed4013180</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-24 10:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-24 10:28:33</sys_created_on>
+            <sys_id>9eaa3620c34f02108d8af13ed4013181</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1107073_aplica_0_request" sys_domain="global" view="Default view">daaa3620c34f02108d8af13ed4013180</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-24 10:28:33</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_1107073_aplica_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-24 10:28:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daaa3620c34f02108d8af13ed4013180</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1107073_aplica_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Aplicativo de teste" source="x_1107073_aplica_0">1f9a7220c34f02108d8af13ed4013164</sys_package>
+            <sys_policy>read</sys_policy>
+            <sys_scope display_value="Aplicativo de teste">1f9a7220c34f02108d8af13ed4013164</sys_scope>
+            <sys_update_name>sys_ui_section_daaa3620c34f02108d8af13ed4013180</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-24 10:28:33</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
